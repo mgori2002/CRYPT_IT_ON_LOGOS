@@ -1,0 +1,23 @@
+{
+  "name": "AAA",
+  "symbol": "AAA",
+  "description": "AAA",
+  "image": "https://raw.githubusercontent.com/mgori2002/CRYPT_IT_ON_LOGOS/main/logos/1767085137247_7c84ef16-82b4-4129-a14d-e330c38fb3fb.jpeg",
+  "external_url": "https://cryptiton.com",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "11111111111111111111111111111111",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/mgori2002/CRYPT_IT_ON_LOGOS/main/logos/1767085137247_7c84ef16-82b4-4129-a14d-e330c38fb3fb.jpeg",
+        "type": "image/png"
+      }
+    ]
+  }
+}
