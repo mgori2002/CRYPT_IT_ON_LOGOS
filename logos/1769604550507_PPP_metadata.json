@@ -1,0 +1,23 @@
+{
+  "name": "PPP",
+  "symbol": "PPP",
+  "description": "PPP",
+  "image": "https://raw.githubusercontent.com/mgori2002/CRYPT_IT_ON_LOGOS/main/logos/1769604546157_Gemini_Generated_Image_v9wxiiv9wxiiv9wx.png",
+  "external_url": "https://cryptiton.com",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "11111111111111111111111111111111",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/mgori2002/CRYPT_IT_ON_LOGOS/main/logos/1769604546157_Gemini_Generated_Image_v9wxiiv9wxiiv9wx.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
