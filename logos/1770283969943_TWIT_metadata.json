@@ -1,0 +1,29 @@
+{
+  "name": "TWIT",
+  "symbol": "TWT",
+  "description": "my rule world ",
+  "image": "https://raw.githubusercontent.com/mgori2002/CRYPT_IT_ON_LOGOS/main/logos/1770283968057_CRYITON.JPG",
+  "external_url": "https://www.hello.com",
+  "website": "https://www.hello.com",
+  "twitter": "https://x.com/TWT",
+  "telegram": "https://t.me/TWT",
+  "extensions": {
+    "website": "https://www.hello.com",
+    "twitter": "https://x.com/TWT",
+    "telegram": "https://t.me/TWT"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/mgori2002/CRYPT_IT_ON_LOGOS/main/logos/1770283968057_CRYITON.JPG",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "links": {
+      "website": "https://www.hello.com",
+      "twitter": "https://x.com/TWT",
+      "telegram": "https://t.me/TWT"
+    }
+  }
+}
