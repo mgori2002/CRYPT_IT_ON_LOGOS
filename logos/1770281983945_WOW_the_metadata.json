@@ -1,0 +1,23 @@
+{
+  "name": "WOW the",
+  "symbol": "TWWW",
+  "description": "twww",
+  "image": "https://raw.githubusercontent.com/mgori2002/CRYPT_IT_ON_LOGOS/main/logos/1770281982320_CRYITON.JPG",
+  "external_url": "https://cryptiton.com",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "11111111111111111111111111111111",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/mgori2002/CRYPT_IT_ON_LOGOS/main/logos/1770281982320_CRYITON.JPG",
+        "type": "image/png"
+      }
+    ]
+  }
+}
