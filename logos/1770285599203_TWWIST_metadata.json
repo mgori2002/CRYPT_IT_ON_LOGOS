@@ -1,0 +1,27 @@
+{
+  "name": "TWWIST",
+  "symbol": "TST",
+  "description": "test one",
+  "image": "https://raw.githubusercontent.com/mgori2002/CRYPT_IT_ON_LOGOS/main/logos/1770285596404_Gemini_Generated_Image_kdlndmkdlndmkdln.png",
+  "external_url": "https://cryptiton.com",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/mgori2002/CRYPT_IT_ON_LOGOS/main/logos/1770285596404_Gemini_Generated_Image_kdlndmkdlndmkdln.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": []
+  },
+  "website": "",
+  "twitter": "",
+  "telegram": "",
+  "extensions": {
+    "website": "",
+    "twitter": "",
+    "telegram": ""
+  }
+}
