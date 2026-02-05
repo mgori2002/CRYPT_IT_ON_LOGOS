@@ -1,0 +1,23 @@
+{
+  "name": "newtest",
+  "symbol": "NTT",
+  "description": "new test",
+  "image": "https://raw.githubusercontent.com/mgori2002/CRYPT_IT_ON_LOGOS/main/logos/1770281383006_Gemini_Generated_Image_kdlndmkdlndmkdln.png",
+  "external_url": "https://cryptiton.com",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "11111111111111111111111111111111",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/mgori2002/CRYPT_IT_ON_LOGOS/main/logos/1770281383006_Gemini_Generated_Image_kdlndmkdlndmkdln.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
